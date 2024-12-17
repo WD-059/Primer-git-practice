@@ -39,8 +39,8 @@ h1 {
     input {
         padding: 0.4rem;
         width: 50%;
-        border: solid 5px grey;
-        border-radius: 10px;
+        border-radius: 5px;
+        border: solid 2px black;
     }
 }
 
